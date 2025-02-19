@@ -15,7 +15,7 @@ Website Time Guardian is a Chrome extension designed to help you track and limit
 - Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/website-time-guardian.git
+git clone https://github.com/H-ario-m/Extension-tracker.git
 ```
 
 - Open Chrome and navigate to chrome://extensions/. 
